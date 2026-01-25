@@ -19,9 +19,9 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages**: Python (NumPy, Pandas, Scikit-Learn), SQL (PostgreSQL, MySQL), C++ (Arduino/ESP32).
-* **Data Analysis & Spreadsheet**: Microsoft Excel (Advanced Pivot Tables, XLOOKUP, Power Query).
-* **Database & Cloud Integration**: MySQL, Google Sheets API (IoT Data Logging).
+* **Languages**: Python (NumPy, Pandas, Scikit-Learn), SQL, C++.
+* **Data Analysis & Spreadsheet**: Microsoft Excel (Pivot Tables, XLOOKUP, Power Query).
+* **Database & Cloud Integration**: MySQL, Google Sheets API.
 * **Business Intelligence & Visualization**: Power BI (DAX, Interactive Dashboards).
 
 ## 👋🏻 Connect with Me
