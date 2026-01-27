@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ Introducing Myself
 
-![Banner](<Banner portofolio.png>)
+![Banner](<Banner Riffan.png>)
 
 Hello, I'm Riffan Sudira! I am a **Physics Graduate** turned **Data Analyst**, currently sharpening my skills as a Scholar at **WorldQuant University's Applied Data Science Lab**.
 
