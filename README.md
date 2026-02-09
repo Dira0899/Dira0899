@@ -13,6 +13,7 @@ I combine the rigorous analytical mindset of a physicist with modern data tools 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
+* **[Primary Care Performance & Patient Activity Analytics](https://github.com/Dira0899/Primary-Care-Performance-And-Patient-Activity-Analytics)**: An end-to-end healthcare analytics project that transforms raw appointment data into a clean data warehouse and executive-ready analytics model. 
 * **[healthcare claims analytics](https://github.com/Dira0899/healthcare-claims-analytics)**:End-to-end healthcare claims analytics using SQL and Power BI to uncover cost drivers and paid vs billed efficiency. 
 * **[Weather Forecasting SARIMA-LSTM](https://github.com/Dira0899/Weather-Forecasting-using-Hybrid-SARIMA-and-LSTM)**: Hybrid model for daily temperature prediction with 98% accuracy.
 * **[IoT Kombucha Monitoring System](https://github.com/Dira0899/IoT-Based-Kombucha-Fermentation-Monitoring-and-Control-System)**: End-to-end IoT system with Google Sheets API and Power BI dashboard.
