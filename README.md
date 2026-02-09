@@ -22,7 +22,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 * **Languages**: Python (NumPy, Pandas, Scikit-Learn), SQL, C++.
 * **Data Analysis & Spreadsheet**: Microsoft Excel (Pivot Tables, XLOOKUP, Power Query).
-* **Database & Cloud Integration**: MySQL,PostgreSQL, Google Sheets API.
+* **Database & Cloud Integration**: MySQL, PostgreSQL, Google Sheets API.
 * **Business Intelligence & Visualization**: Power BI (DAX, Interactive Dashboards).
 
 ## 👋🏻 Connect with Me
