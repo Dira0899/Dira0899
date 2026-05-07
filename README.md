@@ -1,31 +1,85 @@
-# 🙋🏻‍♀️ Introducing Myself
+# 👋 Hi, I'm Riffan Sudira
 
-![Banner](<Banner Riffan.png>)
+![Banner](Banner%20Riffan.png)
 
-Hello, I'm Riffan Sudira! I am a **Physics Graduate** turned **Data Analyst**, currently sharpening my skills as a Scholar at **WorldQuant University's Applied Data Science Lab**.
+Physics graduate with hands-on experience in data analytics, ETL workflows, and business intelligence solutions using Python, SQL, PostgreSQL, and Power BI.
 
-I combine the rigorous analytical mindset of a physicist with modern data tools to extract meaningful insights from complex systems.
+I build end-to-end analytics projects that transform raw operational data into structured, decision-ready insights through data cleaning, warehouse modeling, KPI development, and interactive dashboards.
 
-* Querying and managing data using **SQL**.
-* Developing interactive dashboards on **Power BI**.
-* Data analysis and reporting using **Google Sheets API** and **Excel**.
+Currently expanding my expertise in cloud computing, data infrastructure, and scalable analytics systems through the AWS re/Start program and WorldQuant University’s Applied Data Science Lab.
 
-## 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+---
 
-* **[Primary Care Performance & Patient Activity Analytics](https://github.com/Dira0899/Primary-Care-Performance-And-Patient-Activity-Analytics)**: An end-to-end healthcare analytics project that transforms raw appointment data into a clean data warehouse and executive-ready analytics model. 
-* **[healthcare claims analytics](https://github.com/Dira0899/healthcare-claims-analytics)**:End-to-end healthcare claims analytics using SQL and Power BI to uncover cost drivers and paid vs billed efficiency. 
-* **[Weather Forecasting SARIMA-LSTM](https://github.com/Dira0899/Weather-Forecasting-using-Hybrid-SARIMA-and-LSTM)**: Hybrid model for daily temperature prediction with 98% accuracy.
-* **[IoT Kombucha Monitoring System](https://github.com/Dira0899/IoT-Based-Kombucha-Fermentation-Monitoring-and-Control-System)**: End-to-end IoT system with Google Sheets API and Power BI dashboard.
+## 💼 What I Work With
+
+- Data Cleaning & Validation
+- SQL Querying & Data Modeling
+- ETL Pipeline Development
+- Star Schema & Analytics Warehousing
+- Dashboard Development & KPI Reporting
+- Business Intelligence & Data Visualization
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 [Primary Care Performance & Patient Activity Analytics](https://github.com/Dira0899/Primary-Care-Performance-And-Patient-Activity-Analytics)
+End-to-end healthcare analytics solution using Python, PostgreSQL, and Power BI to build a star schema warehouse and operational KPI reporting system for healthcare appointment analytics.
+
+**Tech Stack:** Python, PostgreSQL, SQL, Power BI
+
+---
+
+### 👩🏻‍⚕️ [Healthcare Claims Analytics](https://github.com/Dira0899/healthcare-claims-analytics)
+Healthcare claims analytics project focused on identifying cost drivers, reimbursement inefficiencies, and high-cost member patterns using SQL and Power BI.
+
+**Tech Stack:** MySQL, SQL, Power BI
+
+---
+
+### 🌦️ [Weather Forecasting using Hybrid SARIMA-LSTM](https://github.com/Dira0899/Weather-Forecasting-using-Hybrid-SARIMA-and-LSTM)
+Time-series forecasting project combining statistical and deep learning models to predict temperature trends and seasonal patterns.
+
+**Tech Stack:** Python, TensorFlow, Pandas, Matplotlib
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages**: Python (NumPy, Pandas, Scikit-Learn), SQL, C++.
-* **Data Analysis & Spreadsheet**: Microsoft Excel (Pivot Tables, XLOOKUP, Power Query).
-* **Database & Cloud Integration**: MySQL, PostgreSQL, Google Sheets API.
-* **Business Intelligence & Visualization**: Power BI (DAX, Interactive Dashboards).
+### Programming & Data Processing
+- Python (Pandas, NumPy, Scikit-Learn)
+- SQL
+- C++
 
-## 👋🏻 Connect with Me
-* [LinkedIn](www.linkedin.com/in/sudira)
-* **Email**: riffan.sudira01@gmail.com
+### Database & Data Warehousing
+- PostgreSQL
+- MySQL
+- Star Schema Design
+- ETL Workflow Development
+
+### Business Intelligence & Analytics
+- Power BI (DAX, KPI Dashboarding)
+- Microsoft Excel (PivotTables, XLOOKUP, Power Query)
+
+### Cloud & Infrastructure
+- AWS (Learning)
+- Google Sheets API
+- Linux Fundamentals
+
+---
+
+## 📚 Current Learning Focus
+
+- Cloud-based Data Engineering
+- Data Pipeline Architecture
+- Analytics Engineering
+- Scalable Data Infrastructure
+- Advanced SQL & Data Modeling
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/sudira](https://www.linkedin.com/in/sudira)
+- 📧 Email: riffan.sudira01@gmail.com
 
