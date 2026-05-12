@@ -21,26 +21,31 @@ Currently expanding my expertise in cloud computing, data infrastructure, and sc
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 [Primary Care Performance & Patient Activity Analytics](https://github.com/Dira0899/Primary-Care-Performance-And-Patient-Activity-Analytics)
+### [Primary Care Performance & Patient Activity Analytics](https://github.com/Dira0899/Primary-Care-Performance-And-Patient-Activity-Analytics)
 End-to-end healthcare analytics solution using Python, PostgreSQL, and Power BI to build a star schema warehouse and operational KPI reporting system for healthcare appointment analytics.
 
 **Tech Stack:** Python, PostgreSQL, SQL, Power BI
 
 ---
 
-### 👩🏻‍⚕️ [Healthcare Claims Analytics](https://github.com/Dira0899/healthcare-claims-analytics)
+### [Healthcare Claims Analytics](https://github.com/Dira0899/healthcare-claims-analytics)
 Healthcare claims analytics project focused on identifying cost drivers, reimbursement inefficiencies, and high-cost member patterns using SQL and Power BI.
 
 **Tech Stack:** MySQL, SQL, Power BI
 
 ---
 
-### 🌦️ [Weather Forecasting using Hybrid SARIMA-LSTM](https://github.com/Dira0899/Weather-Forecasting-using-Hybrid-SARIMA-and-LSTM)
+### [Weather Forecasting using Hybrid SARIMA-LSTM](https://github.com/Dira0899/Weather-Forecasting-using-Hybrid-SARIMA-and-LSTM)
 Time-series forecasting project combining statistical and deep learning models to predict temperature trends and seasonal patterns.
 
 **Tech Stack:** Python, TensorFlow, Pandas, Matplotlib
+
+---
+
+### [Bike Sale Performance Dashboard Excel](https://github.com/Dira0899/Bike-Sale-Performance-Dashboard-Excel)
+Interactive Excel dashboard project for analyzing customer purchasing behavior, demographic trends, and regional bike sales performance using data cleaning, exploratory analysis, and KPI reporting techniques.
 
 ---
 
