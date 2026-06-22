@@ -6,7 +6,7 @@ Physics graduate with hands-on experience in data analytics, ETL workflows, and 
 
 I build end-to-end analytics projects that transform raw operational data into structured, decision-ready insights through data cleaning, warehouse modeling, KPI development, and interactive dashboards.
 
-Currently expanding my expertise in cloud computing, data infrastructure, and scalable analytics systems through the AWS re/Start program and WorldQuant University’s Applied Data Science Lab.
+Recently completed the AWS re/Start program and WorldQuant University's Data Science Lab, strengthening my foundation in cloud computing, Linux, statistical analysis, and scalable data workflows. Currently expanding my expertise in modern data platforms and data engineering with Microsoft Fabric and cloud technologies.
 
 ---
 
